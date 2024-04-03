@@ -30,7 +30,7 @@ export default class ContactCreator extends LightningElement {
         }).catch(error => {
             this.dispatchEvent(
                 new ShowToastEvent({
-                    title: 'Error creating record',
+                    title: 'Error creating records',
                     message: error.body.message,
                     variant: 'error'
                 })
