@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "SFDX_Template",
+  "name": "Event Comms",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
